@@ -32,15 +32,15 @@ Select "Preview on port 8080".
 
 1. Run commands in your Cloud Shell Terminal one by one:
 
+```bash
 git clone https://github.com/flazer99/easy-firestore-setup
 
 cd easy-firestore-setup
 
 sh run.sh
+```
 
 2. Access UI!
-
-
 
 
 #### ⚠️⚠️⚠️ Requirements
